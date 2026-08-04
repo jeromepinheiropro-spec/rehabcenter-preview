@@ -1,0 +1,8 @@
+{
+  "name": "rehabcenter-preview",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Maquette de proposition — accueil rehabcenter.lu",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
